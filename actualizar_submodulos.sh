@@ -4,7 +4,7 @@
 # Echo por Milton Procel M. 
 set -euo pipefail
 
-# ——— Parámetros ———
+# ——— Parámetros ——— 123
 VERSION= #Especificar la version aqui ejemplo 15.0 o 16.0 o 17.0 o 18.0
 FECHA=$(date +"%Y_%m_%d")
 NEW_BRANCH_SUFFIX="MP_${VERSION}_Actualizacion_submodulos"
