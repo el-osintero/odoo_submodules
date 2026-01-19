@@ -9,7 +9,7 @@ VERSION="16.0"
 FECHA=$(date +"%Y_%m_%d")
 NEW_BRANCH_SUFFIX="MP_${VERSION}_Actualizacion_submodulos"
 GITHUB_ORG="TRESCLOUD"
-GITHUB_TOKEN= #Token Aqui
+GITHUB_TOKEN= #Token Aqui comienza por gph
 declare -a FALLIDOS=()
 declare -a PRS_CREADOS=()
 
